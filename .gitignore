@@ -1,2 +1,5 @@
 myvenv/
 __pycache__/
+*.log
+
+
