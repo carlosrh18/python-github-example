@@ -6,7 +6,7 @@ app = Flask(__name__)
 def index():
 	return "Hello world"
 @app.route("/rufles")
-def index():
+def rufles():
 	return "Hello ruffle"
 
 if __name__ == "__main__":
